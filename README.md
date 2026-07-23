@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
   
-  # Hi there! I'm Shameel Mohamed A 👋[cite: 1]
+  # Hi there! I'm Shameel Mohamed A 👋
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Full-stack+Developer;AI+%26+Computer+Vision+Enthusiast;Next.js+%26+Firebase+Advocate;Creating+High-End+Visual+Experiences)](https://git.io/typing-svg)
   
@@ -19,12 +19,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing a **Bachelor of Engineering in Computer Science** at **Saranathan College of Engineering** (Expected 05/2027) with an 8.25 CGPA[cite: 1].
-- 💼 Currently working as a **CoE Intern (ServiceNow AI)** at DivIHN Integration LLP[cite: 1].
-- 💻 Previously honed my skills as an **Intern (Artificial Intelligence)** at Infosys Springboard and as a **Full-stack Developer** at VDart[cite: 1].
+- 🎓 Pursuing a **Bachelor of Engineering in Computer Science** at **Saranathan College of Engineering** (Expected 05/2027) with an 8.25 CGPA.
+- 💼 Currently working as a **CoE Intern (ServiceNow AI)** at DivIHN Integration LLP.
+- 💻 Previously honed my skills as an **Intern (Artificial Intelligence)** at Infosys Springboard and as a **Full-stack Developer** at VDart.
 - 🚀 Passionate about building full-stack platforms using Next.js and Firebase, emphasizing smooth 3D motion, parallax, and micro-interactions for high-end user experiences.
 - 👓 Exploring advanced concepts in Augmented Reality (AR), Computer Vision, and 3D graphics (MediaPipe, Three.js) to build interactive self-learning environments.
-- 📍 Based in Trichy, India[cite: 1].
+- 📍 Based in Trichy, India.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -36,24 +36,24 @@
 
 ## 🏆 Hackathons & Achievements
 
-I thrive in high-pressure environments and love building impactful solutions during hackathons[cite: 1]:
-- 🥇 **1st Prize - CHAKRAVYUHA 2026:** Developed a VR-based Fashion Game[cite: 1].
-- 🥇 **1st Prize - OASYS Hackathon 2025:** Won in the Generative AI category for a Road Safety Project[cite: 1].
-- 🥈 **2nd Prize - BUILD TO SIMPLIFY HACKATHON 2025:** Developed a Fashion Assistant and Awarded the *Most Impactful Solution*[cite: 1].
-- 🥈 **2nd Prize - HACKSPRINT'25 (2025):** Web Development category for a Shipyard Website[cite: 1].
-- 🥈 **2nd Prize - MAMCEHACK2K25 (2025):** Transportation for Sustainable Development theme[cite: 1].
-- 💡 **Participant - Smart India Hackathon & Intel GenAI Hackathon (2024):** Built a machine learning-based plant disease analytics system and a generative AI-powered Mall Assistant[cite: 1].
+I thrive in high-pressure environments and love building impactful solutions during hackathons:
+- 🥇 **1st Prize - CHAKRAVYUHA 2026:** Developed a VR-based Fashion Game.
+- 🥇 **1st Prize - OASYS Hackathon 2025:** Won in the Generative AI category for a Road Safety Project.
+- 🥈 **2nd Prize - BUILD TO SIMPLIFY HACKATHON 2025:** Developed a Fashion Assistant and Awarded the *Most Impactful Solution*.
+- 🥈 **2nd Prize - HACKSPRINT'25 (2025):** Web Development category for a Shipyard Website.
+- 🥈 **2nd Prize - MAMCEHACK2K25 (2025):** Transportation for Sustainable Development theme.
+- 💡 **Participant - Smart India Hackathon & Intel GenAI Hackathon (2024):** Built a machine learning-based plant disease analytics system and a generative AI-powered Mall Assistant.
 
 ## 🚀 Featured Projects
 
 ### AI & Computer Vision
-- **DriveSense | Road Safety & Navigation AI:** An AI-integrated navigation platform focused on real-time hazard reporting, a dynamic routing engine, and driver fatigue management using computer vision[cite: 1].
-- **FashN8 | AI Outfit Curator & Virtual Try-On:** A Smart Wardrobe Management System featuring a deep learning-based Virtual Try-On module and a vision-based visual search engine[cite: 1].
-- **EcoPackAI | Sustainable Packaging AI:** A recommendation model utilizing Random Forest/XGBoost algorithms to predict packaging costs and estimate CO2 footprints, backed by a Flask and PostgreSQL full-stack architecture[cite: 1].
+- **DriveSense | Road Safety & Navigation AI:** An AI-integrated navigation platform focused on real-time hazard reporting, a dynamic routing engine, and driver fatigue management using computer vision.
+- **FashN8 | AI Outfit Curator & Virtual Try-On:** A Smart Wardrobe Management System featuring a deep learning-based Virtual Try-On module and a vision-based visual search engine.
+- **EcoPackAI | Sustainable Packaging AI:** A recommendation model utilizing Random Forest/XGBoost algorithms to predict packaging costs and estimate CO2 footprints, backed by a Flask and PostgreSQL full-stack architecture.
 - **AR Boxing Game:** A self-learning augmented reality boxing experience inspired by sci-fi films, leveraging Three.js and MediaPipe to track and adapt to player combat moves. 
 
 ### Web & Mobile Development
-- **SARA CSE - STUCOR | Departmental Hub PWA:** A secure Progressive Web App utilizing Next.js, TypeScript, and Firebase for role-based access control, featuring a premium "Claymorphism" frontend with 3D micro-interactions[cite: 1].
+- **SARA CSE - STUCOR | Departmental Hub PWA:** A secure Progressive Web App utilizing Next.js, TypeScript, and Firebase for role-based access control, featuring a premium "Claymorphism" frontend with 3D micro-interactions.
 - **LockedIn:** An Android launchpad application engineered with a focus on deep security and optimized battery life.
 - **Hyper-Local Mobility Hub:** A comprehensive platform integrating a parking marketplace and vehicle rental system, fortified by AI-driven fraud prevention. 
 - **CODEMATES:** A modern collaborative workspace and community platform engineered using my preferred stack of Next.js and Firebase.
