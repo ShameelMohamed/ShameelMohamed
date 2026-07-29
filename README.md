@@ -1,71 +1,209 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-  
-  # Hi there! I'm Shameel Mohamed A 👋
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Full-stack+Developer;AI+%26+Computer+Vision+Enthusiast;Next.js+%26+Firebase+Advocate;Creating+High-End+Visual+Experiences)](https://git.io/typing-svg)
-  
-  <p align="center">
-    <a href="mailto:shameelmohamed2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-shameelmohamed2005%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/shameelmohamedx08/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-  </p>
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0078FF&height=250&section=header&text=Shameel%20Mohamed&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Go+Backend+Developer;AI+Enthusiast;Cloud+%7C+Docker+%7C+Kubernetes;Always+Building+Something+Cool"/>
+
+<br>
+
+<a href="https://github.com/shameelmohamed">
+<img src="https://img.shields.io/github/followers/shameelmohamed?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/shameelmohamed">
+<img src="https://img.shields.io/github/stars/shameelmohamed?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=shameelmohamed&style=for-the-badge&color=00F7FF"/>
+
 </div>
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Pursuing a **Bachelor of Engineering in Computer Science** at **Saranathan College of Engineering** (Expected 05/2027) with an 8.25 CGPA.
-- 💼 Currently working as a **CoE Intern (ServiceNow AI)** at DivIHN Integration LLP.
-- 💻 Previously honed my skills as an **Intern (Artificial Intelligence)** at Infosys Springboard and as a **Full-stack Developer** at VDart.
-- 🚀 Passionate about building full-stack platforms using Next.js and Firebase, emphasizing smooth 3D motion, parallax, and micro-interactions for high-end user experiences.
-- 👓 Exploring advanced concepts in Augmented Reality (AR), Computer Vision, and 3D graphics (MediaPipe, Three.js) to build interactive self-learning environments.
-- 📍 Based in Trichy, India.
+# 👋 About Me
 
-## 🛠️ Tech Stack & Tools
+```go
+type Developer struct {
+    Name      string
+    Education string
+    Passion   []string
+    Current   []string
+}
+
+var me = Developer{
+    Name:      "Shameel Mohamed",
+    Education: "B.E Computer Science and Engineering (with B.E Honors)",
+    Passion: []string{
+        "Full Stack Development",
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Open Source",
+    },
+    Current: []string{
+        "Learning Go",
+        "Learning Kubernetes",
+        "Building Better Projects",
+    },
+}
+```
+
+- 🚀 Building scalable full-stack applications
+- ⚙️ Exploring Go backend development
+- 🤖 Passionate about AI & Machine Learning
+- ☁️ Learning Docker & Kubernetes
+- 🌍 Open Source Enthusiast
+- 🏆 Hackathon Lover
+
+> **"First, solve the problem. Then, write the code."**
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,nextjs,ts,react,firebase,tailwind,postgres,flask,html,css,js,git,vscode" />
-  </a>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=go,java,python,javascript,c"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=go,nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,postman,figma"/>
+
 </div>
 
-## 🏆 Hackathons & Achievements
+---
 
-I thrive in high-pressure environments and love building impactful solutions during hackathons:
-- 🥇 **1st Prize - CHAKRAVYUHA 2026:** Developed a VR-based Fashion Game.
-- 🥇 **1st Prize - OASYS Hackathon 2025:** Won in the Generative AI category for a Road Safety Project.
-- 🥈 **2nd Prize - BUILD TO SIMPLIFY HACKATHON 2025:** Developed a Fashion Assistant and Awarded the *Most Impactful Solution*.
-- 🥈 **2nd Prize - HACKSPRINT'25 (2025):** Web Development category for a Shipyard Website.
-- 🥈 **2nd Prize - MAMCEHACK2K25 (2025):** Transportation for Sustainable Development theme.
-- 💡 **Participant - Smart India Hackathon & Intel GenAI Hackathon (2024):** Built a machine learning-based plant disease analytics system and a generative AI-powered Mall Assistant.
-
-## 🚀 Featured Projects
-
-### AI & Computer Vision
-- **DriveSense | Road Safety & Navigation AI:** An AI-integrated navigation platform focused on real-time hazard reporting, a dynamic routing engine, and driver fatigue management using computer vision.
-- **FashN8 | AI Outfit Curator & Virtual Try-On:** A Smart Wardrobe Management System featuring a deep learning-based Virtual Try-On module and a vision-based visual search engine.
-- **EcoPackAI | Sustainable Packaging AI:** A recommendation model utilizing Random Forest/XGBoost algorithms to predict packaging costs and estimate CO2 footprints, backed by a Flask and PostgreSQL full-stack architecture.
-- **AR Boxing Game:** A self-learning augmented reality boxing experience inspired by sci-fi films, leveraging Three.js and MediaPipe to track and adapt to player combat moves. 
-
-### Web & Mobile Development
-- **SARA CSE - STUCOR | Departmental Hub PWA:** A secure Progressive Web App utilizing Next.js, TypeScript, and Firebase for role-based access control, featuring a premium "Claymorphism" frontend with 3D micro-interactions.
-- **LockedIn:** An Android launchpad application engineered with a focus on deep security and optimized battery life.
-- **Hyper-Local Mobility Hub:** A comprehensive platform integrating a parking marketplace and vehicle rental system, fortified by AI-driven fraud prevention. 
-- **CODEMATES:** A modern collaborative workspace and community platform engineered using my preferred stack of Next.js and Firebase.
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShameelMohamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShameelMohamed&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shameelmohamed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameelmohamed&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=shameelmohamed&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🥇 Win National Hackathons
+- 🚀 Master Go Backend Development
+- ☁️ Learn Kubernetes & Docker
+- 🌍 Contribute to Open Source
+- 🤖 Build AI-powered Products
+
+---
+
+# 🌟 Beyond Code
+
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- ⚙️ Backend Engineering
+- 🎧 Music
+- 🚀 Hackathons
+- 🌍 Open Source
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shameelmohamedx08">
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:shameelmohamed2005@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+
+</a>
+
+</div>
+
+---
+
+# 💭 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ Developer Mindset
+
+```go
+package main
+
+func main() {
+    for alive {
+        Learn()
+        Build()
+        BreakThings()
+        FixThings()
+        Improve()
+    }
+}
+```
+
+---
+
+# 😂 Fun Fact
+
+```javascript
+while(alive){
+    eat();
+    code();
+    debug();
+    wonderWhoWroteThisCode();
+    // it was me...
+}
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shameelmohamed/shameelmohamed/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-  <p><i>Building the future, one line of code at a time.</i></p>
+
+## ⭐ Thanks for Visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Learning.;Keep+Building.;Keep+Growing.;See+You+Again!"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:0078FF"/>
+
 </div>
